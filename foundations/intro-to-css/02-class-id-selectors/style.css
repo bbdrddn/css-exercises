@@ -1,1 +1,25 @@
-/* Add CSS Styling */
+/* Add CSS Styling */ 
+
+/* Styling class for the all odd lines */
+.odd{
+    background-color: #FFCBCB;
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+/* Special styling class for the third line, along with its odd class specification */
+.third{
+    font-size: 24px;
+}
+
+/* Unique styling ID for the second line */
+#BIGANDBLUE{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+/* Unique styling ID for the fourth line*/
+#GREENANDBOLD{
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
