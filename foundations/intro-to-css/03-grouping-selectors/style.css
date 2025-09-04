@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+
+/*Unique properties for .black class attribute*/
+.black{
+    background-color: black;
+    color: white;
+}
+
+/*Unique properties for .yellow class attribute*/
+.yellow{
+    background-color: yellow;
+    color: black;
+}
+
+/*Shared properties using grouping selector for the two classes above (.black and .yellow)*/
+.black, .yellow{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
