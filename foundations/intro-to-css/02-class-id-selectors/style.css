@@ -23,3 +23,13 @@
     font-weight: bold;
     font-size: 24px;
 }
+
+
+/*TIPS FROM THE SOLUTIONS*/
+
+/*We can cut complexity and code visual clutter by just making a size adjustments class and apply it to third or fourth
+line clas attributes (see below)*/
+
+.adjust-font-size {
+  font-size: 24px;
+}
